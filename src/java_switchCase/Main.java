@@ -2,13 +2,14 @@ package java_switchCase;
 
 import java.util.Scanner;
 
+ /**
+ * Example Application: Switch Case
+ * 
+ * @author Felipe Fong
+ */
 public class Main {
 
-	/**
-	 * Example Application: Switch Case
-	 * 
-	 * @author Felipe Fong
-	 */
+
 	public static void main(String[] args) {
 
 		Scanner in = new Scanner(System.in);
