@@ -14,11 +14,6 @@ Example Application: Switch Case
 			System.out.println("Case: 1");
 			break;
       
-    //case N:
-    // TODO
-	  //System.out.println("Case: N");
-		//break;
-      
 		default:
 			// TODO
 			System.out.println(String.format("Case: Default (value: %d)", option));
