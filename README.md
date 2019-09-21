@@ -1,7 +1,7 @@
 # Java Switch Case
 Example Application: Switch Case
 
-    // Java SwitchCase Example
+## Java SwitchCase Example
 		switch (option) {
 
 		case 0:
@@ -20,3 +20,6 @@ Example Application: Switch Case
 			break;
 
 		}
+		
+## Some links for more in depth learning
+* [JAVA PRINTF](https://github.com/fefong/java_printf);
